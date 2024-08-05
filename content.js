@@ -1,0 +1,1 @@
+document.querySelectorAll('input[type=checkbox]').forEach((e) => { e.checked = true });
